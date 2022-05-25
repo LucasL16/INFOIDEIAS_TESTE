@@ -150,6 +150,6 @@ class Funcoes
             }
         }
         return false;
-        /* Pelo que entendi do enunciado isso está certo. Mesmo não estando 100% com o gabarito. */
+        /* Pelo que entendi do enunciado isso está certo. Mesmo não estando 100% com o gabarito. Muito obrigado pela oportunidade! */
     }
 }
